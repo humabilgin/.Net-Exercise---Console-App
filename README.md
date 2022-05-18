@@ -10,4 +10,4 @@ Some Basic Operations with .Net Console Application
 A basic output :  
 ![output][output]
 
-[output]: https://github.com/humabilgin/.Net-Exercise---Console-App/blob/main/resim.png
+[output]: https://github.com/humabilgin/.Net-Exercise---Console-App/blob/main/outputExample.png
