@@ -1,4 +1,4 @@
-# .Net-Exercise---Console-App
+# .Net-Exercise - Console-App
 Some Basic Operations with .Net Console Application 
 
 # Flow
