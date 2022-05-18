@@ -60,7 +60,7 @@ namespace fibonacciExample
                 }
                 else
                 {
-                    Console.Write("\nValue could not be added : {0}", singleInput);
+                    Console.Write("Value could not be added : {0}\n", singleInput);
                 }
 
                 indexOfAllInputs++;
