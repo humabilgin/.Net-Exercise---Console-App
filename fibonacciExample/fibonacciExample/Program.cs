@@ -14,7 +14,7 @@ namespace fibonacciExample
             FibonacciHelper fibonacci = new FibonacciHelper();
 
             //flow
-            numbers = IOprocesses();
+            numbers = readInputAndfindNumbers();
             evenNumbers = FindEvenNumbers(numbers);
             int biggestNumber = fibonacci.FindBiggestNumber(evenNumbers);
             bool isFibonacciNumber = fibonacci.IsFibonacci(biggestNumber);
@@ -29,7 +29,7 @@ namespace fibonacciExample
                 Console.WriteLine("\n\n************The biggest even number is not a Fibonacci number.************");
             }
         }
-        static List<int> IOprocesses()
+        static List<int> readInputAndfindNumbers()
         {
 
             int sum = 0;
